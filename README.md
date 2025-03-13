@@ -13,7 +13,7 @@ I'm currently working on multiple FiveM Servers to make them reach their highest
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NumberSixDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=NumberSixFiverr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=NumberSixLIVE)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NumberSixDev&icon=0&color=0)](https://visitcount.itsvg.in)
